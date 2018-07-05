@@ -23,7 +23,7 @@ scripts: assets/js/es6-promise-auto-min.js
 # Author/Organization info to be displayed in the templates
 author:
   name: British Columbia Mine Information
-  url: http://mines.nrs.gov.bc.ca
+  url: http://mines.empr.gov.bc.ca/
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /assets/img/LogoFile
