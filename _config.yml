@@ -8,8 +8,6 @@ exclude:
 - go
 - vendor
 
-baseurl: /rceguide
-
 permalink: pretty
 highlighter: rouge
 incremental: false
@@ -22,8 +20,8 @@ scripts: assets/js/es6-promise-auto-min.js
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: British Columbia Mine Information
-  url: http://mines.empr.gov.bc.ca/
+  name: Put name here
+  url: Put url here
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /assets/img/LogoFile
